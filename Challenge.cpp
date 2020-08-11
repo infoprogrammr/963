@@ -9,7 +9,7 @@ int main()
     cin >> firstNumber ;
 
     // sum of two numbers in stored in variable sumOfTwoNumbers
-    sumOfTwoNumbers = firstNumber;
+    sumOfTwoNumbers = firstNumber-1;
 
     // Prints sum 
     cout << sumOfTwoNumbers;     
